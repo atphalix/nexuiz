@@ -1,0 +1,9 @@
+title Piece o' cake
+description A long nexrun challenge without weapons, it's all about your strafing skills.
+author Rasmus Eskola
+cdtrack 17
+type cts 20 5
+has weapons
+settemp_for_type cts #include balanceNexrun.cfg
+settemp_for_type cts #include physicsNexrun_old.cfg
+settemp_for_type cts g_start_weapon_laser 0

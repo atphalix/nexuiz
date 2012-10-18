@@ -1,0 +1,14 @@
+title Strength
+description Medium sized industrial arena with a lot vertical action under the hot desert sun
+author Paul Evers
+_diameter 3377.715088
+_spawnpoints 15
+has weapons
+type dm 30 20
+type dom 200 20
+type rune 200 20
+type lms 9 20
+type arena 10 20
+type tdm 50 20 2
+cdtrack 5
+type ca 10 20

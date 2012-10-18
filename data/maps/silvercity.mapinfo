@@ -1,0 +1,14 @@
+title Silver City
+description A very large very open map
+author Forest Hale, Garth Hendy
+_diameter 6067.411133
+_spawnpoints 34
+has weapons
+type dm 30 20
+type tdm 50 20 2
+type dom 200 20
+type rune 200 20
+type lms 9 20
+type kh 1000 20 3
+type ca 10 20
+cdtrack 10

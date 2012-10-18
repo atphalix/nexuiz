@@ -1,0 +1,15 @@
+title RUINER
+description Small rusty map
+author Paul Evers
+_diameter 3795.349365
+_spawnpoints 9
+has weapons
+type dm 30 20
+type dom 200 20
+type rune 200 20
+type lms 9 20
+type arena 10 20
+cdtrack 11
+clientsettemp_for_type all r_shadow_glossexponent 96
+clientsettemp_for_type all r_shadow_glossintensity 2
+type ca 10 20
